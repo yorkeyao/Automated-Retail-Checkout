@@ -1,6 +1,6 @@
 ## Intro
 
-![fig1](https://github.com/yorkeyao/Automated-Retail-Checkout/blob/main/3D%20Models%20and%20Unity%20Source/Images/auto_retail.jpg) 
+![fig1](https://github.com/yorkeyao/Automated-Retail-Checkout/blob/main/3D%20Models%20and%20Unity%20Source/Images/cam_model.jpg) 
 
 To capture 2D images of the 3D objects, we create a camera model, as illustrated in Figure above. We define controlable attributes for filming images. 
 

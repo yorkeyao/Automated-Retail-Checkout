@@ -53,7 +53,7 @@ python inference_fsl.py
 
 ## Unity Development
 
-If you wish to make changes to the Unity assets you will need to install the Unity Editor. The [source code](https://drive.google.com/file/d/17Jn5iov3e1rkWgOhID5c2RCnGWTxiuWA/view?usp=sharing) for the engine itself has been released. Please see more details in page [./Unity source](https://github.com/yorkeyao/Automated-Retail-Checkout/tree/main/3D%20Models%20and%20Unity%20Source). We show how to configure the source code step by step. 
+If you wish to make changes to the Unity assets you will need to install the Unity Editor. The [source code](https://drive.google.com/file/d/1LIYmYmK0jh2V-Bj0CD7BHATK9xRhA7Pb/view?usp=sharing) for the engine itself has been released. Please see more details in page [./Unity source](https://github.com/yorkeyao/Automated-Retail-Checkout/tree/main/3D%20Models%20and%20Unity%20Source). We show how to configure the source code step by step. 
 
 
 

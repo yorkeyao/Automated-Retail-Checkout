@@ -52,7 +52,7 @@ pip install mlagents==0.10.1
 pip install scikit-image
 pip install scipy==1.0
 ```
-For a quick environment check, you can learning attributes from VehicleID extracted features with attribute descent using
+After sorting out the environment, you may generate images with one simple command. 
 
 ```python
 python inference_fsl.py

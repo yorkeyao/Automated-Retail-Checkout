@@ -20,15 +20,18 @@ Taking “00001_697.jpg” for example:
 
 We also provide segmentation labels for these images. For example, “00001_697_seg.jpg” is the segmentation label for image “00001_697.jpg”. The white area denotes the area of the object while the black shows the background.   
 
-## 3D Models
-
-3D Models are released together with images. They are in ".obj" format and can be imported into different graphic engines.
 
 ## Engine for Generating Synthetic Data (Unity-python Interface)
 
-We provide a Unity-Python Interface, which you may generate your own images from python code without modifying Unity Environment or C# programming. 
+We provide a Unity-Python Interface, which you may generate your own images from python code without modifying Unity Environment or C# programming. Please check [./Unity-python Interface](https://github.com/yorkeyao/Automated-Retail-Checkout/tree/main/Unity-python%20interface) for more details.
+
+## 3D Models and Unity source
+
+3D Models are released together with images. They are in ".obj" format and can be imported into different graphic engines. We also released entire Unity project. Please check [./3D Models and Unity Source](https://github.com/yorkeyao/Automated-Retail-Checkout/tree/main/3D%20Models%20and%20Unity%20Source) for more details.
 
 ## Citation 
+
+The synthetic data is generated using the pipeline from
 
 ```
 @article{yao2021attribute,

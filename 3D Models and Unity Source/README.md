@@ -10,7 +10,7 @@ Source Code is based on [Unity](https://unity.com/). Here we released the whole 
 ~
 └───Source
     └───Assets
-    │   │ Cars_folder
+    │   │ Resources
     │   │ ...
     │
     └───train2014

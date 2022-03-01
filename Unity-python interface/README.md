@@ -6,7 +6,7 @@
 * Python 3.6 only.
 * Linux Server: X server with GLX module enabled.
 
-## Running with VehicleX Unity-Python Interface
+## Running with Unity-Python Interface
 
 The directly runnable version is available. We have both [windows version](https://drive.google.com/file/d/1ympcEZ8cYyq6rsJ4T1FM9fRKzuCV0_n3/view?usp=sharing) and [linux version](https://drive.google.com/file/d/1vXd5wyKvA4EJ7JwhK4DS7CqccC8U7Q6k/view?usp=sharing). You will also need [backgroud images](https://drive.google.com/file/d/1_hm088938cvUIK1TcotH50nmKjXTCbSL/view?usp=sharing) and [3D assets](https://drive.google.com/file/d/1EAgnQLM3P2uwq4AafkarO_GWGrAXqJcW/view?usp=sharing) prepared. Please download them by click links above and store in a file structure like this: 
 
@@ -14,7 +14,7 @@ The directly runnable version is available. We have both [windows version](https
 ~
 └───Interface
     └───Build-win (is 'Build-linus' if you use linux)
-    │   │ Retail.exe(is 'Retail.x86_64' if you use linux)
+    │   │ Unity Environment.exe(is 'Unity Environment.x86_64' if you use linux)
     │   │ ...
     │
     └───train2014

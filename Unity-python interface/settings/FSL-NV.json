@@ -1,0 +1,25 @@
+
+{
+    "name": "FSL-NV",
+    "camera number": 1,
+    "camera list":
+        [
+            {
+                "camera id": 1220224,
+                "target dir": "./datasets/visda_validation/bottle/",
+                "output dir": "./FSL-NV-obj-116obj-large-test/",
+                "data size": 116500,
+                "generated num": 0,
+                "attributes": 
+                {
+                    "in-plane rotation": ["Gaussian Mixture", [0, 360, 30], [0, 0, 0], [10, 10, 10]],
+                    "orientation": ["Gaussian Mixture", [0, 360, 30], [30, 210, 150, 0, 180, 330], [20, 20, 20, 20, 20, 20]],
+                    "light intensity": ["Gaussian", [0, 3, 0.3], 1, 0.63],
+                    "light direction": ["Gaussian", [45, 135, 15], 90, 7.07],
+                    "camera height": ["Gaussian", [-0.9, -0.55, 0.1], -0.5, 0.4],
+                    "camera distance": ["Gaussian", [0.55, 0.8, 0.1], 1, 0.6] 
+                },
+                "FD distance": "None"
+            }
+        ]
+}

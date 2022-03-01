@@ -1,0 +1,116 @@
+Advil Liquid Gel,1
+Advil Tablets,2
+Alcohol Pads,3
+Aleve PM,4
+Aleve Tablets,5
+All Free and Clear Pods,6
+Arm and Hammer Toothpaste,7
+Bandaid Variety,8
+Banza,9
+Barilla Penne,10
+Barilla Red Lentil,11
+Barilla Rotini Pasta,12
+Barnums Animal Crackers,13
+Bayer Chewable 3 Pack,14
+Bayer Lower Dose,15
+Benadryl Allergy Tablets,16
+Biore,17
+Brown Rice,18
+Bumble Bee Tuna,19
+Cane Sugar,20
+Chamomile Tea,21
+Chicken Bouillon,22
+Children_s Allegra Allergy,23
+Children_s Zyrtec,24
+Chocolate Fudge Poptart,25
+Chocolate Pocky,26
+Chocolate Strawberries,27
+Claratin Chewable,28
+Coffee Mate Creamer,29
+Crackers and Cheese,30
+Cream Cheese,31
+Crest White Strips,32
+Dove Cool Moisturizer,33
+Dove Soap Sensitive,34
+Dove Body Wash,35
+Downy Odor Defense,36
+Dreft Scent Beads,37
+Dry Eye Relief,38
+Excedrine Migraine,39
+Extra Spearmint,40
+Flonase,41
+Flow Flex Covid 19 Test,42
+French Roast Starbucks,43
+Frosting Mix Chocolate,44
+Fudge Oreos,45
+Funfetti Cake,46
+Gain Fireworks Scent Beads,47
+Gain Flings,48
+Garnier Shampoo,49
+Glad Drawstring Trash Bag,50
+Gluten Free Brownies,51
+Gluten Free Pasta,52
+Gournay Cheese,53
+Healthy Choice Chicken Alfredo,54
+Heavy Duty Forks,55
+Hefty Small Trash Bags,56
+Hello Toothpaste,57
+Honey Maid Graham Crackers,58
+Ice Cream Sandwiches,59
+Ice Breakers Ice Cubes,60
+Jello Vanilla Pudding,61
+Kerrygold Butter,62
+Kleenex,63
+Lipton Noodle Soup,64
+Mac 'n' Cheese Shells,65
+Macaroni and Cheese Original,66
+Matzo Balls,67
+McCormick Natures Food Coloring,68
+Milk Duds,69
+Minute Tapioca,70
+Miss Dior,71
+Mixed Berries Hibiscus Tea,72
+M&Ms Peanuts,73
+Mochi Ice Cream,74
+Motrin Ib Migraine,75
+Mr Clean,76
+Nasacort Allergy,77
+Nasal Decongestant,78
+Nasal Strip,79
+Nature Valley Granola Bars,80
+Nintendo Switch Controllers,81
+Onion Soup Dip Mix,82
+Pedialyte Powder,83
+Peets Keurig,84
+Peet's Coffee Grounds Dark Roast,85
+Playtex Sport,86
+Pocky Strawberry,87
+Pork Sausage,88
+Pure Vanilla Extract,89
+Raisinets,90
+Ranch Seasoning,91
+Reese's Pieces,92
+Rewetting Drops Contact Solution,93
+Smores Poptarts,94
+Snuggle Dryer Sheets,95
+Sour Patch Kids,96
+Stevia in the Raw,97
+Strawberry Jello,98
+Stress Relief Spray All Natural,99
+Sunmaid Raisins,100
+Swiss Miss Hot Chocolate,101
+Tampax,102
+Tide Pods,103
+Toothpicks,104
+Tostada Shells,105
+Total Home Scent Boos,106
+Tussin,107
+Tylenol Arthritis,108
+Unstoppables,109
+Vapo Rub,110
+Vick's Pure Zzz's,111
+Vinyl Gloves,112
+Visine Red Eye Hydrating Comfort,113
+Whoppers,114
+Wild Strawberry Tea,115
+Woolite Delicates _Attempt_,116

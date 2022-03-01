@@ -3,7 +3,7 @@
 To capture 2D images of the 3D objects, we create a camera model, as illustrated in the figure below. We define controlable attributes for filming images. 
 
 <!-- ![fig1](https://github.com/yorkeyao/Automated-Retail-Checkout/blob/main/3D%20Models%20and%20Unity%20Source/Images/cam_model.jpg)  -->
-![cam_model](3D%20Models%20and%20Unity%20Source/Images/cam_model.jpg?raw=true "cam_model")
+![cam_model](../3D%20Models%20and%20Unity%20Source/Images/cam_model.jpg?raw=true "cam_model")
 
 In this code, images are filmed with random attributes, i.e., random object orientation, camera pose, and lighting. More details of attribute explaination can be found in our [Paper](https://arxiv.org/abs/2202.14034). 
 

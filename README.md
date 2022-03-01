@@ -1,6 +1,7 @@
 ## Automated Retail Checkout
 
-![fig1](https://github.com/yorkeyao/Automated-Retail-Checkout/blob/main/3D%20Models%20and%20Unity%20Source/Images/auto_retail.jpg)  
+<!-- ![fig1](https://github.com/yorkeyao/Automated-Retail-Checkout/blob/main/3D%20Models%20and%20Unity%20Source/Images/auto_retail.jpg)   -->
+![auto_retail](3D%20Models%20and%20Unity%20Source/Images/auto_retail.jpg?raw=true "auto_retail")
 
 This repository includes data and related code for [CVPR AI City Challenge 2022 Track 4](https://www.aicitychallenge.org/). This code, inherited from [VehicleX](https://github.com/yorkeyao/VehicleX/), is also part of the [Paper](https://arxiv.org/abs/2202.14034) 'Attribute Descent: Simulating Object-Centric Datasets on the Content Level and Beyond'. 
 

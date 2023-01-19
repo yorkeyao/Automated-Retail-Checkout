@@ -35,10 +35,10 @@ We provide a Unity-Python Interface, which you may generate your own images from
 The synthetic data is generated using the pipeline from
 
 ```
-@article{yao2021attribute,
+@article{yao2022attribute,
   title={Attribute Descent: Simulating Object-Centric Datasets on the Content Level and Beyond},
-  author={Yao, Yue and Zheng, Liang and Yang, Xiaodong and Naphade, Milind and Gedeon, Tom},
+  author={Yao, Yue and Zheng, Liang and Yang, Xiaodong and Napthade, Milind and Gedeon, Tom},
   journal={arXiv preprint arXiv:2202.14034},
-  year={2021}
+  year={2022}
 }
 ```

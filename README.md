@@ -7,11 +7,11 @@ This repository includes data and related code for [CVPR AI City Challenge 2023 
 
 Related material: [Data](https://drive.google.com/file/d/1LIYmYmK0jh2V-Bj0CD7BHATK9xRhA7Pb/view?usp=sharing), [Demo](https://simmer.io/@yorkeyao/retail-demo). 
 
-You may play with our [Demo](https://simmer.io/@yorkeyao/retail-demo) for a quick view of our data. This demo contains 3 objects out of 100.
+You may play with our [Demo](https://simmer.io/@yorkeyao/retail-demo) for a quick view of our data. This demo contains 3 objects out of 116.
 
 ## Synthetic Training Data  
 
-[Synthetic data](https://drive.google.com/file/d/1LIYmYmK0jh2V-Bj0CD7BHATK9xRhA7Pb/view?usp=sharing) is provided for model training. There are 116,500 synthetic images from 100 3D objects. Following the generation pipeline in [1], images are filmed with random attributes, i.e., random object orientation, camera pose, and lighting. Random background images, which are selected from Microsoft COCO, are used to increase the dataset diversity. The labeling format for synthetic data is “id_num.jpg”: 
+[Synthetic data](https://drive.google.com/file/d/1LIYmYmK0jh2V-Bj0CD7BHATK9xRhA7Pb/view?usp=sharing) is provided for model training. There are 116,500 synthetic images from 116 3D objects. Following the generation pipeline in [1], images are filmed with random attributes, i.e., random object orientation, camera pose, and lighting. Random background images, which are selected from Microsoft COCO, are used to increase the dataset diversity. The labeling format for synthetic data is “id_num.jpg”: 
 
 Taking “00001_697.jpg” for example: 
 

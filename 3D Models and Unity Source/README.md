@@ -1,6 +1,6 @@
 ## Separate 3D models
 
-[3D modeles](https://drive.google.com/file/d/1p14lhyvYNYCJvl-qhXdb_StuNZN7C_q-/view?usp=sharing) are released. Please see 100 3D scans in the formate of '.obj'. 
+[3D modeles](https://drive.google.com/file/d/1p14lhyvYNYCJvl-qhXdb_StuNZN7C_q-/view?usp=sharing) are released. Please see 116 3D scans in the formate of '.obj'. 
 
 ## Source Code 
 

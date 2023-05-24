@@ -32,7 +32,7 @@ We provide a Unity-Python Interface, which you may generate your own images from
 
 ## Citation 
 
-The synthetic data is generated using the pipeline from
+If you find this dataset useful for your research, please consider citing
 
 ```
 @article{yao2022attribute,
@@ -40,5 +40,16 @@ The synthetic data is generated using the pipeline from
   author={Yao, Yue and Zheng, Liang and Yang, Xiaodong and Napthade, Milind and Gedeon, Tom},
   journal={arXiv preprint arXiv:2202.14034},
   year={2022}
+}
+```
+
+```
+@InProceedings{Naphade23AIC23,
+    author = {    
+    Milind Naphade and Shuo Wang and David C. Anastasiu and Zheng Tang and Ming-Ching Chang and Yue Yao and Liang Zheng and Mohammed Shaiqur Rahman and Meenakshi S. Arya and Anuj Sharma and Qi Feng and Vitaly Ablavsky and Stan Sclaroff and Pranamesh Chakraborty and Sanjita Prajapati and Alice Li and Shangru Li and Krishna Kunadharaju and Shenxin Jiang and Rama Chellappa},
+    title = {The 7th {AI City Challenge}},
+    booktitle = {CVPRW},
+    month = {June},
+    year = {2023},
 }
 ```

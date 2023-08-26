@@ -1,5 +1,7 @@
 ## Automated Retail Checkout
 
+Related material: [Paper](https://arxiv.org/pdf/2308.09708)
+
 <!-- ![fig1](https://github.com/yorkeyao/Automated-Retail-Checkout/blob/main/3D%20Models%20and%20Unity%20Source/Images/auto_retail.jpg)   -->
 ![auto_retail](3D%20Models%20and%20Unity%20Source/Images/auto_retail.jpg?raw=true "auto_retail")
 
@@ -33,15 +35,15 @@ We provide a Unity-Python Interface, which you may generate your own images from
 ## Citation 
 
 If you find this dataset useful for your research, please consider citing
-
 ```
-@article{yao2022attribute,
-  title={Attribute Descent: Simulating Object-Centric Datasets on the Content Level and Beyond},
-  author={Yao, Yue and Zheng, Liang and Yang, Xiaodong and Napthade, Milind and Gedeon, Tom},
-  journal={arXiv preprint arXiv:2202.14034},
-  year={2022}
+@article{yao2023training,
+  title={Training with Product Digital Twins for AutoRetail Checkout},
+  author={Yao, Yue and Tian, Xinyu and Tang, Zheng and Biswas, Sujit and Lei, Huan and Gedeon, Tom and Zheng, Liang},
+  journal={arXiv preprint arXiv:2308.09708},
+  year={2023}
 }
 ```
+
 
 ```
 @InProceedings{Naphade23AIC23,
@@ -51,5 +53,14 @@ If you find this dataset useful for your research, please consider citing
     booktitle = {CVPRW},
     month = {June},
     year = {2023},
+}
+```
+
+```
+@article{yao2022attribute,
+  title={Attribute Descent: Simulating Object-Centric Datasets on the Content Level and Beyond},
+  author={Yao, Yue and Zheng, Liang and Yang, Xiaodong and Napthade, Milind and Gedeon, Tom},
+  journal={arXiv preprint arXiv:2202.14034},
+  year={2022}
 }
 ```
